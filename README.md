@@ -1,7 +1,11 @@
 ![Banner da Página de Receita](https://github.com/ludovicomonjardim/Receitas/blob/master/assets/receita2.png)
-# 🌟 Página de Receita
 
 
+# 🌟 Projeto: Página de Receita
+
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 ## 🔹 Sobre o Projeto
 
@@ -23,7 +27,7 @@ Nesse projeto desenvolvemos uma página simples de receita como parte da formaç
 ## 🔹 Features
 
 - Exibição de uma receita completa.
-- Design responsivo e minimalista.
+- Design desktop e minimalista.
 - Estrutura semântica utilizando HTML5 e CSS3.
 
 ## 🔹 Tecnologias Utilizadas
