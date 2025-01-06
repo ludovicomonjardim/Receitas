@@ -1,6 +1,5 @@
 ![Banner da Página de Receita](https://github.com/ludovicomonjardim/Receitas/blob/master/assets/receita2.png)
 
-
 # 🌟 Projeto: Página de Receita
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
@@ -27,27 +26,26 @@ Nesse projeto desenvolvemos uma página simples de receita como parte da formaç
 ## 🔹 Features
 
 - Exibição de uma receita completa.
-- Design desktop e minimalista.
+- Design exclusivamente para desktop e minimalista.
 - Estrutura semântica utilizando HTML5 e CSS3.
 
 ## 🔹 Tecnologias Utilizadas
 
-&#x20;
-
-- **HTML5**: Para estruturação semântica.
-- **CSS3**: Para estilização e responsividade.
+- **HTML5**: Para estruturação semântica, garantindo acessibilidade e boas práticas.
+- **CSS3**: Para estilização proporcionando um design visualmente agradável.
 
 ## 🔹 Como Executar o Projeto
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/pagina-receita.git
+   git clone https://github.com/ludovicomonjardim/Receitas.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd pagina-receita
+   cd Receitas
    ```
 3. Abra o arquivo `index.html` no navegador de sua preferência.
+   - **Dica:** Use uma extensão como o Live Server para testar o projeto localmente com recarregamento automático.
 
 ## 🔹 Autor
 
@@ -56,9 +54,8 @@ Nesse projeto desenvolvemos uma página simples de receita como parte da formaç
 Feito com 💖 por **Ludovico Monjardim**.
 
 - **LinkedIn:** [Ludovico Monjardim](https://www.linkedin.com/in/ludovicomonjardim/)
-- **Email:** [ludovico.monjardim.pro@gmail.com](mailto\:ludovico.monjardim.pro@gmail.com)
+- **Email:** [ludovico.monjardim.pro@gmail.com](mailto:ludovico.monjardim.pro@gmail.com)
 
 ## 🔹 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
+Este projeto está licenciado sob a Licença [MIT](LICENSE).
